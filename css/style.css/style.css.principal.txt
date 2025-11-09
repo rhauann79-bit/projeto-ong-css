@@ -1,0 +1,17 @@
+@import url('header.css');
+@import url('footer.css');
+@import url('responsivo.css');
+
+/* Cores e estilos globais */
+:root {
+  --cor-primaria: #004aad;
+  --cor-secundaria: #ffffff;
+  --cor-destaque: #0099ff;
+  --fonte-padrao: 'Poppins', sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--fonte-padrao);
+  background-color: var(--cor-secundaria);
+}
