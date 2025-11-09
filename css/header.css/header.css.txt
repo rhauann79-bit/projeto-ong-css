@@ -1,0 +1,11 @@
+header {
+  background-color: var(--cor-primaria);
+  color: var(--cor-secundaria);
+  padding: 10px 20px;
+}
+
+nav a {
+  color: var(--cor-secundaria);
+  margin-right: 15px;
+  text-decoration: none;
+}
